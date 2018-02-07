@@ -1,7 +1,7 @@
-EXE:= ChaosGame
+EXE:= Run
 
 install:
-	ghc ChaosGame.hs
+	ghc ChaosGame.hs -o $(EXE)
 	./$(EXE)
 
 clean:
