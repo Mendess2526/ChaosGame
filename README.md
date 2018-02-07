@@ -1,6 +1,6 @@
 # ChaosGame
 
-<img src="images/partial3anchor.png" alt="partial3anchor" style="width: 100px;"/>
+![partial3anchor](images/partial3anchor_0-5x.png)
 
 This small project is inspired by the numberphile [video](https://www.youtube.com/watch?v=kbKtFN71Lfs) where they go over patterns created from randomness.
 
